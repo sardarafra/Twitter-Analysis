@@ -5,4 +5,4 @@ Before you can access the twitter api you need to register your client applicati
 
 Once you have registered with Twitter go to My Applications page on Twitter and you should see your newly created application. Click on the link and you should see the application details page:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Twitter_Authetication](Twitter_Authetication.png)
